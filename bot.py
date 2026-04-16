@@ -11,7 +11,7 @@ API_TOKEN = "8716693601:AAFc9rt0DDPETnG8cVpNGjwu18Qw8YHf-Vg"
 CHANNEL_ID = -1002449896845
 CHANNEL_USERNAME = "@Stars_5_odam_1stars"
 ADMIN_ID = 2010030869
-BOT_USERNAME = "yourbot"          # ←←← BU YERNI O'ZGARTIRING! Masalan: saacaaaaa_bot
+BOT_USERNAME = "stars_sovga_gifbot"          # ←←← BU YERNI O'ZGARTIRING! Masalan: saacaaaaa_bot
 
 bot = telebot.TeleBot(API_TOKEN, parse_mode="HTML", threaded=True)
 
